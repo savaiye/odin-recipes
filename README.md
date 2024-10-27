@@ -1,1 +1,1 @@
-This project is to create a website consisting of a main index page which will have links to a  few recipes. This is a site built using HTML only at this stage. It will look bland. I will revisit this project to style it up with CSS at a later point.# odin-recipes
+This project is to create a website consisting of a main index page which will have links to a few recipes. This is a site built using only  HTML at this stage. It will look bland. I will revisit this project to style it up with CSS at a later point. #odin-recipes
